@@ -1,3 +1,9 @@
 table[b-zr4hfffqtd]{
     width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+td[b-zr4hfffqtd] {
+  border: 1px solid #000;
+  width: auto;
 }

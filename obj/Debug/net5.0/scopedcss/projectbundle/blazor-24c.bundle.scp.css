@@ -3,6 +3,12 @@
 /* _content/blazor-24c/Pages/Students.razor.rz.scp.css */
 table[b-zr4hfffqtd]{
     width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+td[b-zr4hfffqtd] {
+  border: 1px solid #000;
+  width: auto;
 }
 /* _content/blazor-24c/Shared/MainLayout.razor.rz.scp.css */
 .page[b-9kwyrqpss8] {
